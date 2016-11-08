@@ -1,0 +1,3 @@
+python golf_drone.py --connect udpin:0.0.0.0:14550
+python test.py --connect udpin:0.0.0.0:14550
+python vehicle_state.py --connect udpin:0.0.0.0:14550
